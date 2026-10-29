@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm David Évora 👋
 
-<!--
-**David-Evora/David-Evora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Computer Science student focused on software development, data and industrial automation.*
 
-Here are some ideas to get you started:
+Industrial Automation technician (SENAI) turned CS student at UVV. I build systems that connect
+software, data and the real world, from real-time machine monitoring to bus occupancy dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Highlights
+- 🥈 **2nd place in Latin America** at Grand Prix SENAI (Industry 4.0): real-time monitoring and predictive maintenance system
+- 🇧🇷 Competitor at **WorldSkills Brasil** (Industry 4.0), representing Espírito Santo
+
+### 🚀 Projects
+- **InfoFrota**: real-time bus occupancy monitoring for Grande Vitória (technical vice-leader)
+- **SGTCC**: thesis (TCC) management platform for professors and students, built with Java Spring and PostgreSQL
+- **[cmapss-rul](https://github.com/SEU_USUARIO/cmapss-rul)**: remaining useful life prediction for turbofan engines (Python, ML)
+
+### 🛠️ Technologies and tools
+
+![Python](https://skillicons.dev/icons?i=python,java,spring,js,html,css,mysql,postgres,powerbi,git,linux)
+
+### 📫 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-evora)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davievoraqs@gmail.com)
