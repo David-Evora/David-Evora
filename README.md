@@ -11,7 +11,7 @@ software, data and the real world, from real-time machine monitoring to bus occu
 
 ### 🚀 Projects
 - **InfoFrota**: real-time bus occupancy monitoring for Grande Vitória (technical vice-leader)
-- **SGTCC**: thesis (TCC) management platform for professors and students, built with Java Spring and PostgreSQL
+- **SGTCC**: thesis (TCC) management platform for professors and students, for practical use aimed at Vila Velha University (under development)
 - **[cmapss-rul](https://github.com/SEU_USUARIO/cmapss-rul)**: remaining useful life prediction for turbofan engines (Python, ML)
 
 ### 🛠️ Technologies and tools
